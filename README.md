@@ -13,7 +13,7 @@ dataset.  You'll need a copy of the dataset, which is available at:
     
 The architecture is based on a paper by Pierre Sermanet and Yann LeCun:
 
->Traffic Sign Recognition with Multi-Scale Convolutional Networks
+>Traffic Sign Recognition with Multi-Scale Convolutional Networks  
     http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf
 
 ## Preprocessing:
