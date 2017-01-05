@@ -6,7 +6,7 @@ v1.0
 
 4 Jan 2017
 
-This is an implementation of a convolutional network classifier for the German Traffic Sign
+This is an implementation in Tensorflow of a convolutional network classifier for the German Traffic Sign
 dataset.  You'll need a copy of the dataset, which is available at:
 
 >http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
